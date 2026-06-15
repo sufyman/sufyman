@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://sufyanosamah.com">Website</a> ·
   <a href="https://www.linkedin.com/in/REPLACE-ME">LinkedIn</a> ·
-  <a href="https://www.npmjs.com/~sufyman">npm</a>
+  <a href="https://www.npmjs.com/~sufyano">npm</a>
 </p>
 
 ---
